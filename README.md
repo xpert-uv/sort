@@ -1,2 +1,2 @@
 # sort
-This is collection of sort project or codes.  
+This is collection of short project or codes.  
